@@ -1,0 +1,602 @@
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   Project Results for                                     
+                                                           
+                                                           
+                                                           
+   cb_CustomerData.v9_2.ws                                 
+                                                           
+                                                           
+   Project Metrics                                         
+                                                           
+                                                           
+   Overview                                                
+                                                           
+     File                     C:\Users\xsc5546\Documents   
+                              \cb-CustomerData-v9-2-ws-s   
+                                                           
+                                                           
+     Scripting Language       Groovy                       
+                                                           
+     Environment              Default environment          
+                                                           
+                                                           
+   Interface Summary                                       
+                                                           
+     cb_CustomerData_v9_2_ws  http://esb-qa.bbvacompass.   
+                              com:5555/ws/cb_CustomerDat   
+                              a.v9_2.ws.producer:custome   
+                              rdata?WSDL                   
+                                                           
+   Base Metrics                                            
+                                                           
+     Number of TestSuites     1                            
+                                                           
+     Number of TestCases      1                            
+                                                           
+                                                           
+     Number of LoadTests      0                            
+                                                           
+     Number of TestSteps      1                            
+                                                           
+                                                           
+     Number of Assertions     2                            
+                                                           
+   Virt Summary                                            
+                                                           
+     Number of SOAP Virts     0                            
+                                                           
+                                                           
+     Number of SOAP           0                            
+                                                           
+     Number of SOAP Virt      0                            
+                                                           
+                                                           
+     Number of REST Virts     0                            
+                                                           
+     Number of REST           0                            
+                                                           
+     Number of REST           0                            
+                                                           
+                                                           
+     Number of JMS Virts      0                            
+                                                           
+     Number of JMS Routes     0                            
+                                                           
+                                                           
+     Number of JMS            0                            
+                                                           
+     Number of JDBC Virts     0                            
+                                                           
+                                                           
+                                                           
+                                                           
+   created with ReadyAPI on Wed Aug 09 10:19:03 CDT 2017   
+                                                           
+                                                           
+                                                           
+                                                           
+
+
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   Project Results for                                     
+                                                           
+                                                           
+                                                           
+   cb_CustomerData.v9_2.ws                                 
+                                                           
+                                                           
+   Project Metrics                                         
+                                                           
+                                                           
+     Number of JDBC Virt      0                            
+                                                           
+     Number of JDBC           0                            
+                                                           
+                                                           
+                                                           
+   Project Properties                                      
+                                                           
+                                                           
+                                                           
+   Name              Value                                 
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   created with ReadyAPI on Wed Aug 09 10:19:03 CDT 2017   
+                                                           
+                                                           
+                                                           
+                                                           
+
+
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   Project Results for                                     
+                                                           
+                                                           
+                                                           
+   cb_CustomerData.v9_2.ws                                 
+                                                           
+                                                           
+   TestSuites                                              
+                                                           
+                                                           
+   TestSuite Name      TestSuite Description               
+                                                           
+     Regression                                            
+                                                           
+   Result Metrics                                          
+                                                           
+                                                           
+                                                           
+   Result Metrics                                          
+                                                           
+     Start Time               Wed Aug 09 10:18:55 CDT      
+                                                           
+     End Time                 Wed Aug 09 10:18:57 CDT      
+                                                           
+                                                           
+     Time Taken               2025 ms                      
+                                                           
+     TestSuite Count          1                            
+                                                           
+     TestCase Count           1                            
+                                                           
+                                                           
+     Failed TestCase Count    0                            
+                                                           
+     TestStep Count           1                            
+                                                           
+                                                           
+     Failed TestStep Count    0                            
+                                                           
+     Assertion Count          2                            
+                                                           
+     Failed Assertion Count   0                            
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   created with ReadyAPI on Wed Aug 09 10:19:03 CDT 2017   
+                                                           
+                                                           
+                                                           
+                                                           
+
+
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   Project Results for                                     
+                                                           
+                                                           
+                                                           
+   cb_CustomerData.v9_2.ws                                 
+                                                           
+                                                           
+   TestSuite Results                                       
+                                                           
+                                                           
+                                                           
+   TestSuite         Statu Time  Reason                    
+                     s                                     
+   Regression        FINIS 2011                            
+                     HED                                   
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   created with ReadyAPI on Wed Aug 09 10:19:03 CDT 2017   
+                                                           
+                                                           
+                                                           
+                                                           
+
+
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   Project Results for                                     
+                                                           
+                                                           
+                                                           
+   cb_CustomerData.v9_2.ws                                 
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   created with ReadyAPI on Wed Aug 09 10:19:04 CDT 2017   
+                                                           
+                                                           
+                                                           
+                                                           
+
+
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   Project Results for                                     
+                                                           
+                                                           
+                                                           
+   cb_CustomerData.v9_2.ws                                 
+                                                           
+                                                           
+   Regression Summary                                      
+                                                           
+                                                           
+                                                           
+   Status  Start Time   Time     Reason                    
+                        Taken                              
+   FINISHE 10:18:55     2011 ms                            
+   D                                                       
+                                                           
+                                                           
+   TestSuite Properties                                    
+                                                           
+                                                           
+                                                           
+   Name              Value                                 
+                                                           
+                                                           
+                                                           
+   TestCase Results                                        
+                                                           
+                                                           
+                                                           
+   TestCase       StatuStart Time   Reason                 
+                  s    Time  Taken                         
+   TestCase 1     FINIS10:18:1862 ms                       
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   created with ReadyAPI on Wed Aug 09 10:19:04 CDT 2017   
+                                                           
+                                                           
+                                                           
+                                                           
+
+
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   Project Results for                                     
+                                                           
+                                                           
+                                                           
+   cb_CustomerData.v9_2.ws                                 
+                                                           
+                                                           
+   TestCase 1 Summary                                      
+                                                           
+                                                           
+                                                           
+   Status  Start Time Time     Reason                      
+                      Taken                                
+   FINISHE                                                 
+   D       10:18:55   1862 ms                              
+                                                           
+                                                           
+                                                           
+   TestCase Properties                                     
+                                                           
+                                                           
+   Name              Value                                 
+                                                           
+                                                           
+                                                           
+   TestStep Results                                        
+                                                           
+                                                           
+   StatusTimestamessage                                    
+         p                                                 
+                                                           
+   OK    10:18:55tep 1 [search] OK: took 1862 ms           
+         .763                                              
+   TestStep Parameters                                     
+                                                           
+   Test steps                                              
+                                                           
+                                                           
+     search                                                
+                                                           
+     Endpoint:               http://esb-qaq.compassb       
+                             nk.com:5555/ws/cb_Custo       
+                             merData.v9_2.ws.produce       
+                             r.customerdata/cb_Custo       
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+   created with ReadyAPI on Wed Aug 09 10:19:05 CDT 2017   
+                                                           
+                                                           
+                                                           
+                                                           
+
+
